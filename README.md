@@ -12,21 +12,21 @@ This code for `Python`:
 
 
 Setting Playing status
-```xml
+```python
 await bot.change_presence(activity=discord.Game(name="a game"))
 ```
 
 Setting Streaming status
-```xml
+```python
 await bot.change_presence(activity=discord.Streaming(name="My Stream", url=my_twitch_url))
 ```
 
 Setting Listening status
-```xml
+```python
 await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="a song"))
 ```
 
 Setting Watching status
-```xml
+```python
 await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="a movie"))
 ```
