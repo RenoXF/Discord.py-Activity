@@ -1,9 +1,5 @@
 <h1 align="center">
-<br>
-  <img src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" alt="Front-End Checklist" width="130">
-  <br>
-    <br>
-  Bot Discord Activity
+  Discord.py Activity
   <br>
 </h1>
 
